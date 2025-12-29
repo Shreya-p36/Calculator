@@ -16,7 +16,8 @@ The project performs basic arithmetic operations with real-time expression evalu
 - JavaScript (DOM manipulation)
 
 ## 📸 Preview
-_Add screenshots here_
+<img width="547" height="593" alt="image" src="https://github.com/user-attachments/assets/266fdeda-9c54-461b-8e58-47ed53571a49" />
+
 
 ## 📂 How to Run
 1. Clone the repository
