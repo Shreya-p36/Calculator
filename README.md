@@ -1,25 +1,79 @@
-# Calculator Web App
+# Calculator – Web Application
 
-A simple and responsive calculator built using **HTML, CSS, and JavaScript**.  
-The project performs basic arithmetic operations with real-time expression evaluation.
+A simple and responsive **calculator web application** built using **HTML, CSS, and JavaScript**, designed to perform basic arithmetic operations with a clean and user-friendly interface.
 
-## 🚀 Features
-- Addition, subtraction, multiplication, division, and percentage
-- Clear (AC) and delete (DE) functionality
-- Responsive grid-based layout using CSS
-- Interactive buttons with hover and click effects
-- Real-time display updates
+This project demonstrates core frontend development skills, including DOM manipulation, event handling, and responsive UI design.
 
-## 🛠 Tech Stack
-- HTML5
-- CSS3 (Grid Layout)
-- JavaScript (DOM manipulation)
+---
 
-## 📸 Preview
-<img width="427" height="478" alt="image" src="https://github.com/user-attachments/assets/44c46609-d23b-43b6-bb86-9137496f0d9d" />
+## 🌐 Live Demo
+
+👉 https://shreya-p36.github.io/Calculator/
+
+---
+
+## 📌 Features
+
+- Perform basic arithmetic operations:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
+- Clear and intuitive user interface
+- Button-based input handling
+- Real-time calculation display
+- Responsive layout for different screen sizes
+
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** – structure
+- **CSS3** – styling and layout
+- **JavaScript** – logic and interactivity
+  - DOM manipulation
+  - Event handling
+
+---
+
+## 📂 Project Structure
+
+calculator/
+│
+├── index.html
+├── style.css
+├── script.js
+└── README.md
 
 
-## 📂 How to Run
-1. Clone the repository
-   ```bash
-   git clone <your-repo-link>
+---
+
+## 🚀 What This Project Demonstrates
+
+- Strong understanding of JavaScript fundamentals
+- Handling user input and events
+- Updating the DOM dynamically
+- Writing clean and readable frontend code
+- Deploying static projects using GitHub Pages
+
+---
+
+## 🔮 Future Improvements
+
+- Keyboard input support
+- Scientific calculator functions
+- Calculation history
+- Improved accessibility
+
+---
+
+## 👤 Author
+
+**Shreya P36**  
+Frontend Development Enthusiast
+
+---
+
+## 📄 License
+
+This project is open-source and available for learning and portfolio use.
